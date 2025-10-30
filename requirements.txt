@@ -1,0 +1,2 @@
+# Program ini tidak memerlukan library eksternal.
+# Semua modul yang digunakan adalah bawaan Python (standard library).
